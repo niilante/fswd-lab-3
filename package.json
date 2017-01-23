@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "express": "^4.13.4",
-    "jspm": "^0.16.45"
+    "jspm": "^0.16.49"
   },
   "jspm": {
     "directories": {
